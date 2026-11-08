@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://han-z02.github.io/bioinfo-figure-gallery/sitemap.xml
